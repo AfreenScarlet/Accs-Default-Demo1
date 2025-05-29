@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/AfreenScarlet/Accs-Default-Demo1/
+    type: markup
+
+folders:
+  /products/: /products/default
